@@ -1,5 +1,5 @@
 TinDog :
-A static website using HTML , CSS & Bootstrap
+A static website using Bootstrap, CSS & HTML
 
 What I learnt with this Project:
 -Link correctly CSS & Bootstrap
